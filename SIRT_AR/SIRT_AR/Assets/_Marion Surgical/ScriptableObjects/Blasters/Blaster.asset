@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aab02e44a85bbc4aa7b29339713cf2a, type: 3}
+  m_Name: Blaster
+  m_EditorClassIdentifier: 
+  BlasterName: Star Wars Blaster
+  holdToFire: 0
+  roundsPerSecond: 1
+  fireSound: {fileID: 8300000, guid: 0bc7c4157b3d06344b0e13ca5adc068e, type: 3}
+  kickback:
+    Pattern: 9
+    Intensity: 1
+  bulletShape: {fileID: 6510138716919821054, guid: 35faecef3fae71f4cb1e1bfde84968af,
+    type: 3}
+  bulletSpeed: 19.45
+  usesGravity: 0
+  bulletDeath: 1
+  collisionsUntilDeath: 0
+  TimeUntilDeath: 3
+  collisionEffect: {fileID: 3211426752296967677, guid: 2fdb94c1cf91a9b43a7c241ea9adfc06,
+    type: 3}
+  collisionSound: {fileID: 8300000, guid: 787c0c788f13a164faa72735bb59882c, type: 3}

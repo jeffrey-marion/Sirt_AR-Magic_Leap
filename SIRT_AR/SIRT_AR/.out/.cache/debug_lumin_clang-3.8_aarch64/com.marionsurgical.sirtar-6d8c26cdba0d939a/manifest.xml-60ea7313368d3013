@@ -1,0 +1,10 @@
+<manifest xmlns:ml="magicleap" ml:developer_id="f1ae4595-5979-41b0-9572-6e16b9ce4e3b" ml:package="com.marionsurgical.sirtar" ml:version_code="1" ml:version_name="">
+  <application ml:min_api_level="4" ml:sdk_version="1.0" ml:visible_name="SIRT_AR">
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="SIRT_AR">
+      <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
+    </component>
+    <uses-privilege ml:name="LowLatencyLightwear" />
+    <uses-privilege ml:name="ControllerPose" />
+    <uses-privilege ml:name="WorldReconstruction" />
+  </application>
+</manifest>

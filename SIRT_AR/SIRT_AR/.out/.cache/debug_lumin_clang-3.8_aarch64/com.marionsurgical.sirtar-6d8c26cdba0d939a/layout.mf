@@ -1,0 +1,46 @@
+[
+ {
+  "dest": "bin/libc++_shared.so",
+  "src": "C:/Users/Marion/MagicLeap/mlsdk/v0.22.0/lumin/stl/libc++/lib/libc++_shared.so"
+ },
+ {
+  "dest": "bin/libil2cpp.so",
+  "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/Native/libil2cpp.so"
+ },
+ {
+  "dest": "bin/AudioPluginMSASpatializer.so",
+  "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so"
+ },
+ {
+  "dest": "bin/LuminMediaPlayer.dll",
+  "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/Plugins/LuminMediaPlayer.dll"
+ },
+ {
+  "dest": "bin/LuminUnity.dll",
+  "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/Plugins/LuminUnity.dll"
+ },
+ {
+  "dest": "bin/MSA.Runtime.dll",
+  "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/Plugins/MSA.Runtime.dll"
+ },
+ {
+  "dest": "bin/UnityMagicLeap.so",
+  "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so"
+ },
+ {
+  "dest": "bin/libml_camera_plugin.so",
+  "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so"
+ },
+ {
+  "dest": "bin/libml_mediaplayer_plugin.so",
+  "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so"
+ },
+ {
+  "dest": "bin/nunit.framework.dll",
+  "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+ },
+ {
+  "dest": "bin/Player.elf",
+  "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Player.elf"
+ }
+]

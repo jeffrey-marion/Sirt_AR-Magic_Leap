@@ -1,0 +1,304 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "C:/Users/Marion/MagicLeap/mlsdk/v0.22.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Marion\\Desktop\\MagicLeapCertificate\\SIRTAR\\sirtar.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "166cfa41caf132a36531db66a08e35fa8f13cb30",
+   "xfrm_path": "D:/SIRT_AR/SIRT_AR/.out/.cache/debug_lumin_clang-3.8_aarch64/com.marionsurgical.sirtar-6d8c26cdba0d939a\\libc++_shared.so-5de1304974beb17f",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "cd3a349afd0c5720954b6df6e4c33924cc7b0376",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 3790524,
+   "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "3b39e549d66ccde92d6d5c7598a80d4e5cf8936a",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 64391688,
+   "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Marion\\Desktop\\MagicLeapCertificate\\SIRTAR\\sirtar.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "2028b60f1fa3d7f4cade26b099f9a4ad5c4e0b25",
+   "xfrm_path": "D:/SIRT_AR/SIRT_AR/.out/.cache/debug_lumin_clang-3.8_aarch64/com.marionsurgical.sirtar-6d8c26cdba0d939a\\libil2cpp.so-eae3fbdcd3ed7aa0",
+   "xfrm_size": 64392446
+  },
+  {
+   "compression": 8,
+   "hash": "fa2b8ff146caf64688e7aa835af0034ca81b5505",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 282448,
+   "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Marion\\Desktop\\MagicLeapCertificate\\SIRTAR\\sirtar.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "2c481e12ea28be48859c5933f52d234b10a1d449",
+   "xfrm_path": "D:/SIRT_AR/SIRT_AR/.out/.cache/debug_lumin_clang-3.8_aarch64/com.marionsurgical.sirtar-6d8c26cdba0d939a\\AudioPluginMSASpatializer.so-939d282621c34403",
+   "xfrm_size": 283206
+  },
+  {
+   "compression": 8,
+   "hash": "004e541e1322f28445ed8675f0af3d1d4bd9c703",
+   "pkgpath": "bin/LuminMediaPlayer.dll",
+   "size": 68096,
+   "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/Plugins/LuminMediaPlayer.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "0d86dd10890c04a3fbd6de33aaf167b61ef26bc0",
+   "pkgpath": "bin/LuminUnity.dll",
+   "size": 329216,
+   "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/Plugins/LuminUnity.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "b8ce049d2e85f27cc7346d7551d1853b20e78461",
+   "pkgpath": "bin/MSA.Runtime.dll",
+   "size": 22016,
+   "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/Plugins/MSA.Runtime.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "a71acc50817a0929bccc93cbe7619d57d25d1b17",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 3077192,
+   "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Marion\\Desktop\\MagicLeapCertificate\\SIRTAR\\sirtar.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "b42f15837d95afb79ab413935dccff5bbac3bcb0",
+   "xfrm_path": "D:/SIRT_AR/SIRT_AR/.out/.cache/debug_lumin_clang-3.8_aarch64/com.marionsurgical.sirtar-6d8c26cdba0d939a\\UnityMagicLeap.so-939d282621c34403",
+   "xfrm_size": 3077950
+  },
+  {
+   "compression": 8,
+   "hash": "fbfa4a6aa20b14e0f60550676e5d34bebb99d46d",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Marion\\Desktop\\MagicLeapCertificate\\SIRTAR\\sirtar.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "ce440665538018f50ef29070e8cca9f6b709220b",
+   "xfrm_path": "D:/SIRT_AR/SIRT_AR/.out/.cache/debug_lumin_clang-3.8_aarch64/com.marionsurgical.sirtar-6d8c26cdba0d939a\\libml_camera_plugin.so-939d282621c34403",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "88ac1047e0ac5686d703471c3115f719ca66a4e8",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 67624,
+   "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Marion\\Desktop\\MagicLeapCertificate\\SIRTAR\\sirtar.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "201577f8fae2f8b592262ffd866a48b2133dd03d",
+   "xfrm_path": "D:/SIRT_AR/SIRT_AR/.out/.cache/debug_lumin_clang-3.8_aarch64/com.marionsurgical.sirtar-6d8c26cdba0d939a\\libml_mediaplayer_plugin.so-939d282621c34403",
+   "xfrm_size": 68382
+  },
+  {
+   "compression": 8,
+   "hash": "984e4d2049ed5491b970ba15d1e8c8cadac0896e",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 339968,
+   "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "fa10859a933989c5961257c02d9f4fcf042044f1",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3689324,
+   "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "6084911be9f29510d32f739ec15e631a27bb2842",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 942768,
+   "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "778891100a8030ad6096db64784c6e5d67c28378",
+   "pkgpath": "Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json",
+   "size": 417,
+   "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "f226dfc0f1097b18c77eb2198b6257be5b02a613",
+   "pkgpath": "Data/boot.config",
+   "size": 123,
+   "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "a425cb395c1f62b020d57e4ea30310b5b5d11d15",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 76168,
+   "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "02e90dde272f7d60212bdfc005a16f6da8406a26",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 124684,
+   "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "4a795944dd315a7495217ee31dd957a2ee7a037d",
+   "pkgpath": "Data/level0",
+   "size": 48264,
+   "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "ee1d9adbc275a62134098658d24c2c9f2ed7cdfd",
+   "pkgpath": "Data/resources.assets",
+   "size": 962736,
+   "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/resources.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "1d5e5447a0f0b085b695376c9fdb7738e07e4f23",
+   "pkgpath": "Data/resources.assets.resS",
+   "size": 360480,
+   "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/resources.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "6cdc0e4cbe1201c4ca6f1a16e833814ac2bbc3a8",
+   "pkgpath": "Data/resources.resource",
+   "size": 5875136,
+   "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/resources.resource"
+  },
+  {
+   "compression": 8,
+   "hash": "03c399a30d663c0cde802f398b23ed7ceeac3a30",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 312900,
+   "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "ff72d49ec46c408af17953bfc0cf545838514d8d",
+   "pkgpath": "Data/sharedassets0.assets.resS",
+   "size": 13089948,
+   "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "89bc3fec9a1c804e6bc819eed44ed64b81c33bce",
+   "pkgpath": "Data/sharedassets0.resource",
+   "size": 23552,
+   "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Data/sharedassets0.resource"
+  },
+  {
+   "compression": 8,
+   "hash": "24f84a747cb793945d1e48a2eb5f8f7c9aa0c38c",
+   "pkgpath": "bin/Player.elf",
+   "size": 20719048,
+   "src": "D:/SIRT_AR/SIRT_AR/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Marion\\Desktop\\MagicLeapCertificate\\SIRTAR\\sirtar.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "97d8327759976f406bd3996ce0af6f4e846242d9",
+   "xfrm_path": "D:/SIRT_AR/SIRT_AR/.out/.cache/debug_lumin_clang-3.8_aarch64/com.marionsurgical.sirtar-6d8c26cdba0d939a\\Player.elf-60ea7313368d3013",
+   "xfrm_size": 20719806
+  },
+  {
+   "compression": 8,
+   "hash": "1955b03f9d8046e74665813d07fb8fc2e092f45c",
+   "pkgpath": "manifest.xml",
+   "size": 637,
+   "src": "D:\\SIRT_AR\\SIRT_AR\\Temp\\StagingArea\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "3f657e9223f843cc0821441363a793bd75e79509",
+     "developer_id": "f1ae4595-5979-41b0-9572-6e16b9ce4e3b"
+    }
+   },
+   "xfrm_hash": "21db9fcf904baec9e6124499e5b7a8dcb783cf51",
+   "xfrm_path": "D:/SIRT_AR/SIRT_AR/.out/.cache/debug_lumin_clang-3.8_aarch64/com.marionsurgical.sirtar-6d8c26cdba0d939a\\manifest.xml-60ea7313368d3013",
+   "xfrm_size": 649
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Users\\Marion\\Desktop\\MagicLeapCertificate\\SIRTAR\\sirtar.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "C:\\Users\\Marion\\Desktop\\MagicLeapCertificate\\SIRTAR\\sirtar.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
